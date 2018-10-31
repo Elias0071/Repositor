@@ -1,0 +1,2046 @@
+{ //JSON Object
+  "timezoneee": // JSON Array Name
+  [  // JSON Array
+
+    { // JSON Object
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Polynesia",
+      "ISO": "FR",
+      "Strng": "Etc/GMT-10",
+      "timezone": "UTC-10:00--French Polynesia"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Marquesas",
+      "ISO": "FR",
+      "Strng": "Pacific/Marquesas",
+      "timezone": "UTC-09:30--Marquesas Islands"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Gambier_Islands",
+      "ISO": "FR",
+      "Strng": "Pacific/Gambier",
+      "timezone": "UTC-09:00--Gambier Islands"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Clipperton_Island",
+      "ISO": "FR",
+      "Strng": "Etc/GMT-8",
+      "timezone": "UTC-08:00--Clipperton Island"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Martinique",
+      "ISO": "FR",
+      "Strng": "America/Martinique",
+      "timezone": "UTC-04:00(AST) --Guadeloupe,Martinique,Saint Barthelemy,Saint Martin"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Miquelon",
+      "ISO": "FR",
+      "Strng": "America/Miquelon",
+      "timezone": "UTC-02:00(PMST) --Saint-Pierre-and-Miquelon"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Cayenne",
+      "ISO": "FR",
+      "Strng": "America/Cayenne",
+      "timezone": "UTC-03:00(PMST) --French Guiana,Saint Pierre and Miquelon"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Paris",
+      "ISO": "FR",
+      "Strng": "Europe/Paris",
+      "timezone": "UTC+01:00(CET) --Metropolitan France"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Mayotte",
+      "ISO": "FR",
+      "Strng": "Indian/Mayotte",
+      "timezone": "UTC+03:00--Mayotte"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Reunion",
+      "ISO": "FR",
+      "Strng": "Indian/Reunion",
+      "timezone": "UTC+04:00--Reunion,Crozet Islands,Scattered Islands in the Indian Ocean"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Kerguelen",
+      "ISO": "FR",
+      "Strng": "Indian/Kerguelen",
+      "timezone": "UTC+05:00--Kerguelen Islands, les Saint-Paul and Nouvelle-Amsterdam"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Noumea",
+      "ISO": "FR",
+      "Strng": "Pacific/Noumea",
+      "timezone": "UTC+11:00--New Caledonia"
+    },
+    {
+      "sovereignstate": "France",
+      "TextIdsinApp": "Timezone_FR_Wallis",
+      "ISO": "FR",
+      "Strng": "Pacific/Wallis",
+      "timezone": "UTC+12:00--Wallis and Futuna"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Kaliningrad",
+      "ISO": "RU",
+      "Strng": "Europe/Kaliningrad",
+      "timezone": "UTC+02:00(Kaliningrad Time) --Kaliningrad Oblast"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Moscow",
+      "ISO": "RU",
+      "Strng": "Europe/Moscow",
+      "timezone": "UTC+03:00(Moscow Time)"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Samara",
+      "ISO": "RU",
+      "Strng": "Europe/Samara",
+      "timezone": "UTC+04:00(Samara Time) --Astrakhan Oblast,Samara Oblast,Saratov Oblast,Udmurtia, and Ulyanovsk Oblast"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Yekaterinburg",
+      "ISO": "RU",
+      "Strng": "Asia/Yekaterinburg",
+      "timezone": "UTC+05:00 (Yekaterinburg Time) --Bashkortostan,Chelyabinsk Oblast,Khanty Mansia, Kurgan Oblast,Orenburg Oblast, Perm Krai, Sverdlovsk Oblast, Tyumen Oblast, and Yamalia"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Omsk",
+      "ISO": "RU",
+      "Strng": "Asia/Omsk",
+      "timezone": "UTC+06:00(Omsk Time) -- Omsk Oblast"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Krasnoyarsk",
+      "ISO": "RU",
+      "Strng": "Asia/Krasnoyarsk",
+      "timezone": "UTC+07:00(Krasnoyarsk Time) --Altai Krai, Altai Republic, Kemerovo Oblast, Khakassia, Krasnoyarsk Krai, Novosibirsk Oblast, Tomsk Oblast, and Tuva"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Irkutsk",
+      "ISO": "RU",
+      "Strng": "Asia/Irkutsk",
+      "timezone": "UTC+08:00 (Irkutsk Time) -- Buryatia and Irkutsk Oblast"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Yakutsk",
+      "ISO": "RU",
+      "Strng": "Asia/Yakutsk",
+      "timezone": "UTC+09:00 (Yakutsk Time) -- Amur Oblast, western Sakha Republic, and Zabaykalsky Krai"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Vladivostok",
+      "ISO": "RU",
+      "Strng": "Asia/Vladivostok",
+      "timezone": "UTC+10:00 (Vladivostok Time) -- \n Jewish Autonomous Oblast, Khabarovsk Krai, Primorsky Krai, and central Sakha Republic"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Magadan",
+      "ISO": "RU",
+      "Strng": "Asia/Magadan",
+      "timezone": "UTC+11:00 (Magadan Time) -- Magadan Oblast, eastern Sakha, and Sakhalin Oblast"
+    },
+    {
+      "sovereignstate": "Russia",
+      "TextIdsinApp": "Timezone_RU_Kamchatka",
+      "ISO": "RU",
+      "Strng": "Asia/Kamchatka",
+      "timezone": "UTC+12:00 (Kamchatka Time) -- Chukotka and Kamchatka Krai"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Baker_Island",
+      "ISO": "US",
+      "Strng": "Etc/GMT-12",
+      "timezone": "UTC-12:00 -- Baker Island and Howland Island"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Samoa",
+      "ISO": "US",
+      "Strng": "US/Samoa",
+      "timezone": "UTC-11:00 (ST) -- American Samoa, Jarvis Island, Kingman Reef, Midway Atoll and Palmyra Atoll"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Hawaii",
+      "ISO": "US",
+      "Strng": "US/Hawaii",
+      "timezone": "UTC-10:00 (HT) -- Hawaii, Aleutian Islands, and Johnston Atoll"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Alaska",
+      "ISO": "US",
+      "Strng": "US/Alaska",
+      "timezone": "UTC-09:00 (AKT) -- Alaska"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Pacific",
+      "ISO": "US",
+      "Strng": "US/Pacific",
+      "timezone": "UTC-08:00 (PT) -- Pacific timezone"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Mountain",
+      "ISO": "US",
+      "Strng": "US/Mountain",
+      "timezone": "UTC-07:00 (MT) -- Mountain timezone"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Central",
+      "ISO": "US",
+      "Strng": "US/Central",
+      "timezone": "UTC-06:00 (CT) -- Central timezone"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Eastern",
+      "ISO": "US",
+      "Strng": "US/Eastern",
+      "timezone": "UTC-05:00 (ET) -- Eastern timezone"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Puerto_Rico",
+      "ISO": "US",
+      "Strng": "America/Puerto_Rico",
+      "timezone": "UTC-04:00 (AT) -- Puerto Rico, the U.S. Virgin Islands"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Guam",
+      "ISO": "US",
+      "Strng": "Pacific/Guam",
+      "timezone": "UTC+10:00 (ChT) -- Guam and the Northern Mariana Islands"
+    },
+    {
+      "sovereignstate": "United States",
+      "TextIdsinApp": "Timezone_US_Wake",
+      "ISO": "US",
+      "Strng": "Pacific/Wake",
+      "timezone": "UTC+12:00 -- Wake Island, McMurdo Station, and Amundsen Scott South Pole Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Palmer",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Palmer",
+      "timezone": "UTC-03:00 (ART) -- Palmer Station, Rothera Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Troll",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Troll",
+      "timezone": "UTC 00:00 (GMT) -- Troll Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Syowa",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Syowa",
+      "timezone": "UTC+03:00 (UTC+03:00) -- Syowa Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Mawson",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Mawson",
+      "timezone": "UTC+05:00-- Mawson Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Vostok",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Vostok",
+      "timezone": "UTC+06:00-- Vostok Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Davis",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Davis",
+      "timezone": "UTC+07:00 -- Davis Station"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Dumont_DUrville",
+      "ISO": "AQ",
+      "Strng": "Antarctica/DumontDUrville",
+      "timezone": "UTC+10:00--"
+    },
+    {
+      "sovereignstate": "Dumont-d'Urville Station",
+      "TextIdsinApp": "",
+      "ISO": "",
+      "Strng": "",
+      "timezone": ""
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_Casey",
+      "ISO": "AQ",
+      "Strng": "Antarctica/Casey",
+      "timezone": "UTC+11:00-- Casey Station, Macquarie Island"
+    },
+    {
+      "sovereignstate": "Antarctica",
+      "TextIdsinApp": "Timezone_AQ_McMurdo",
+      "ISO": "AQ",
+      "Strng": "Antarctica/McMurdo",
+      "timezone": "UTC+12:00-- McMurdo Station"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Heard",
+      "ISO": "AU",
+      "Strng": "Etc/GMT",
+      "timezone": "UTC-- Heard and McDonald Islands"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Cocos_Islands",
+      "ISO": "AU",
+      "Strng": "Indian/Cocos",
+      "timezone": "UTC+06:30-- Cocos (Keeling) Islands"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Christmas_Island",
+      "ISO": "AU",
+      "Strng": "Indian/Christmas",
+      "timezone": "UTC+07:00 (CXT) --"
+    },
+    {
+      "sovereignstate": "Christmas Island",
+      "TextIdsinApp": "",
+      "ISO": "",
+      "Strng": "",
+      "timezone": ""
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_West",
+      "ISO": "AU",
+      "Strng": "Australia/West",
+      "timezone": "UTC+08:00 (AWST) -- Western Australia, Indian Pacific"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_South",
+      "ISO": "AU",
+      "Strng": "Australia/South",
+      "timezone": "UTC+08:45 (CWT)  South Australia (Border Village), Western Australia (Caiguna, Eucla, Madura, Mundrabilla)"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Yancowinna",
+      "ISO": "AU",
+      "Strng": "Australia/Yancowinna",
+      "timezone": "UTC+09:30 (ACST) -- South Australia, Northern Territory, New South Wales (Yancowinna County)"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Queensland",
+      "ISO": "AU",
+      "Strng": "Australia/Queensland",
+      "timezone": "UTC+10:00 (AEST) -- Queensland, New South Wales, Australian Capital Territory, Victoria, Tasmania"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Lord_Howe_Island",
+      "ISO": "AU",
+      "Strng": "Australia/Lord_Howe",
+      "timezone": "UTC+10:30-- Lord Howe Island"
+    },
+    {
+      "sovereignstate": "Australia",
+      "TextIdsinApp": "Timezone_AU_Norfolk_Island",
+      "ISO": "AU",
+      "Strng": "Pacific/Norfolk",
+      "timezone": "UTC+11:00 (NFT) -- Norfolk Island"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Pitcairn_Islands",
+      "ISO": "GB",
+      "Strng": "Pacific/Pitcairn",
+      "timezone": "UTC-08:00-- Pitcairn Islands"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Cayman_Islands",
+      "ISO": "GB",
+      "Strng": "America/Cayman",
+      "timezone": "UTC-05:00-- Cayman Islands"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Bermuda",
+      "ISO": "GB",
+      "Strng": "Atlantic/Bermuda",
+      "timezone": "UTC-04:00 (AST) -- Anguilla, Bermuda, British Virgin Islands, Montserrat, Turks and Caicos Islands"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Stanley",
+      "ISO": "GB",
+      "Strng": "Atlantic/Stanley",
+      "timezone": "UTC-03:00 (FKST) -- Falkland Islands"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_South_Georgia",
+      "ISO": "GB",
+      "Strng": "Atlantic/South_Georgia",
+      "timezone": "UTC-02:00-- South Georgia and the South Sandwich Islands"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_London",
+      "ISO": "GB",
+      "Strng": "Europe/London",
+      "timezone": "UTC -- United Kingdom, Saint Helena, Ascension and Tristan da Cunha, Guernsey, Isle of Man, Jersey"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Gibraltar",
+      "ISO": "GB",
+      "Strng": "Europe/Gibraltar",
+      "timezone": "UTC+01:00 (CET) -- Gibraltar"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_Akrotiri",
+      "ISO": "GB",
+      "Strng": "Etc/GMT+2",
+      "timezone": "UTC+02:00 (EET) -- Akrotiri and Dhekelia"
+    },
+    {
+      "sovereignstate": "United Kingdom",
+      "TextIdsinApp": "Timezone_GB_British_Indian",
+      "ISO": "GB",
+      "Strng": "Etc/GMT+6",
+      "timezone": "UTC+06:00-- British Indian Ocean Territory"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Yukon",
+      "ISO": "CA",
+      "Strng": "Canada/Yukon",
+      "timezone": "UTC-08:00 (PST) -- western part of British Columbia, Tungsten and Cantung Mine in Northwest Territories, Yukon"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Mountain",
+      "ISO": "CA",
+      "Strng": "Canada/Mountain",
+      "timezone": "UTC-07:00 (MST) -- Alberta, British Columbia, most of Northwest Territories, Nunavut , Lloydminster and Saskatchewan"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Saskatchewan",
+      "ISO": "CA",
+      "Strng": "Canada/Saskatchewan",
+      "timezone": "UTC-06:00 (CST) -- Manitoba, Nunavut, Ontario, Saskatchewan except Lloydminster"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Eastern",
+      "ISO": "CA",
+      "Strng": "Canada/Eastern",
+      "timezone": "UTC-05:00 (EST) -- Ontario, Quebec"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Atlantic",
+      "ISO": "CA",
+      "Strng": "Canada/Atlantic",
+      "timezone": "UTC-04:00 (AST) -- Labrador, New Brunswick, Nova Scotia, Prince Edward Island, eastern part of Quebec"
+    },
+    {
+      "sovereignstate": "Canada",
+      "TextIdsinApp": "Timezone_CA_Newfoundland",
+      "ISO": "CA",
+      "Strng": "Canada/Newfoundland",
+      "timezone": "UTC-03:30 (NST) -- Labrador (southeastern), Newfoundland"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Thule",
+      "ISO": "DK",
+      "Strng": "America/Thule",
+      "timezone": "UTC-04:00-- Thule Air Base in Greenland"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Greenland",
+      "ISO": "DK",
+      "Strng": "Etc/GMT-3",
+      "timezone": "UTC-03:00--Greenland"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Ittoqqortoormiit",
+      "ISO": "DK",
+      "Strng": "Etc/GMT-1",
+      "timezone": "UTC-01:00-- Ittoqqortoormiit and surrounding area in Greenland's Tunu county"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Faroe",
+      "ISO": "DK",
+      "Strng": "Atlantic/Faroe",
+      "timezone": "UTC-- Danmarkshavn, Greenland's Tunu, Faroe Islands"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Copenhagen",
+      "ISO": "DK",
+      "Strng": "Europe/Copenhagen",
+      "timezone": "UTC+01:00--(CET) -- metropolitan Denmark"
+    },
+    {
+      "sovereignstate": "Denmark",
+      "TextIdsinApp": "Timezone_DK_Copenhagen",
+      "ISO": "DK",
+      "Strng": "Europe/Copenhagen",
+      "timezone": "UTC+ Niue"
+    },
+    {
+      "sovereignstate": "New Zealand",
+      "TextIdsinApp": "Timezone_NZ_Cook_Islands",
+      "ISO": "NZ",
+      "Strng": "Etc/GMT-10",
+      "timezone": "UTC-10:00-- Cook Islands"
+    },
+    {
+      "sovereignstate": "New Zealand",
+      "TextIdsinApp": "Timezone_NZ_Auckland",
+      "ISO": "NZ",
+      "Strng": "Pacific/Auckland",
+      "timezone": "UTC+12:00--main territory of New Zealand"
+    },
+    {
+      "sovereignstate": "New Zealand",
+      "TextIdsinApp": "Timezone_NZ_Chatham_Islands",
+      "ISO": "NZ",
+      "Strng": "Pacific/Chatham",
+      "timezone": "UTC+12:45-- Chatham Islands"
+    },
+    {
+      "sovereignstate": "New Zealand",
+      "TextIdsinApp": "Timezone_NZ_Tokelau",
+      "ISO": "NZ",
+      "Strng": "Etc/GMT-11",
+      "timezone": "UTC+13:00-- Tokelau"
+    },
+    {
+      "sovereignstate": "Brazil",
+      "TextIdsinApp": "Timezone_BR_Acre",
+      "ISO": "BR",
+      "Strng": "Brazil/Acre",
+      "timezone": "UTC-05:00 (Bras lia time -2) -- Acre and Southwestern Amazonas"
+    },
+    {
+      "sovereignstate": "Brazil",
+      "TextIdsinApp": "Timezone_BR_West",
+      "ISO": "BR",
+      "Strng": "Brazil/West",
+      "timezone": "UTC-04:00 (Bras lia time -1) -- Amazonas State, Mato Grosso, Mato Grosso do Sul, Rond nia, Roraima"
+    },
+    {
+      "sovereignstate": "Brazil",
+      "TextIdsinApp": "Timezone_BR_East",
+      "ISO": "BR",
+      "Strng": "Brazil/East",
+      "timezone": "UTC-03:00 Bras lia time"
+    },
+    {
+      "sovereignstate": "Brazil",
+      "TextIdsinApp": "Timezone_BR_DeNoronha",
+      "ISO": "BR",
+      "Strng": "Brazil/DeNoronha",
+      "timezone": "UTC-02:00 (Bras lia time +1) -- (Fernando de Noronha, Trindade and Martim Vaz, Rocas Atoll, Saint Peter and Saint Paul Archipelago)"
+    },
+    {
+      "sovereignstate": "Mexico",
+      "TextIdsinApp": "Timezone_MX_BajaNorte",
+      "ISO": "MX",
+      "Strng": "Mexico/BajaNorte",
+      "timezone": "UTC-08:00 (Northwest Zone) -- the state of Baja California"
+    },
+    {
+      "sovereignstate": "Mexico",
+      "TextIdsinApp": "Timezone_MX_BajaSur",
+      "ISO": "MX",
+      "Strng": "Mexico/BajaSur",
+      "timezone": "UTC-07:00 (Pacific Zone) -- the states of Baja California Sur, Chihuahua, Nayarit, Sinaloa and Sonora"
+    },
+    {
+      "sovereignstate": "Mexico",
+      "TextIdsinApp": "Timezone_MX_Mexico_City",
+      "ISO": "MX",
+      "Strng": "Mexico/General",
+      "timezone": "UTC-06:00 (Zone 2 or Central Zone) -- most of Mexico"
+    },
+    {
+      "sovereignstate": "Chile",
+      "TextIdsinApp": "Timezone_CL_Easter_ Island",
+      "ISO": "CL",
+      "Strng": "Pacific/Easter",
+      "timezone": "UTC-06:00-- Easter Island"
+    },
+    {
+      "sovereignstate": "Chile",
+      "TextIdsinApp": "Timezone_CL_Santiago",
+      "ISO": "CL",
+      "Strng": "America/Santiago",
+      "timezone": "UTC-04:00--main territory"
+    },
+    {
+      "sovereignstate": "Chile",
+      "TextIdsinApp": "Timezone_CL_Palmer",
+      "ISO": "CL",
+      "Strng": "Antarctica/Palmer",
+      "timezone": "UTC-03:00-- Magallanes and Chilean Antarctica"
+    },
+    {
+      "sovereignstate": "Indonesia",
+      "TextIdsinApp": "Timezone_ID_Kuala_Lumpur",
+      "ISO": "ID",
+      "Strng": "Asia/Kuala_Lumpur",
+      "timezone": "UTC+07:00 (Western Indonesian Standard Time) -- islands of Sumatra, Java, provinces of West Kalimantan and Central Kalimantan"
+    },
+    {
+      "sovereignstate": "Indonesia",
+      "TextIdsinApp": "Timezone_ID_Jakarta",
+      "ISO": "ID",
+      "Strng": "Asia/Jakarta",
+      "timezone": "UTC+08:00 (Central Indonesian Standard Time) -- islands of Sulawesi, Bali, provinces of East Nusa Tenggara, West Nusa Tenggara, East Kalimantan, North Kalimantan and South Kalimantan"
+    },
+    {
+      "sovereignstate": "Indonesia",
+      "TextIdsinApp": "Timezone_ID_Brunei",
+      "ISO": "ID",
+      "Strng": "Asia/Brunei",
+      "timezone": "UTC+09:00 (Eastern Indonesian Standard Time) -- provinces of Maluku, North Maluku, Papua and West Papua"
+    },
+    {
+      "sovereignstate": "Kiribati",
+      "TextIdsinApp": "Timezone_KI_Gilbert_Islands",
+      "ISO": "KI",
+      "Strng": "Pacific/Tarawa",
+      "timezone": "UTC+12:00-- Gilbert Islands"
+    },
+    {
+      "sovereignstate": "Kiribati",
+      "TextIdsinApp": "Timezone_KI_Phoenix_Islands",
+      "ISO": "KI",
+      "Strng": "Etc/GMT-11",
+      "timezone": "UTC+13:00-- Phoenix Islands"
+    },
+    {
+      "sovereignstate": "Kiribati",
+      "TextIdsinApp": "Timezone_KI_Line_Islands",
+      "ISO": "KI",
+      "Strng": "Etc/GMT-10",
+      "timezone": "UTC+14:00-- Line Islands"
+    },
+    {
+      "sovereignstate": "Democratic Republic of the Congo",
+      "TextIdsinApp": "Timezone_CD_Kinshasa",
+      "ISO": "CD",
+      "Strng": "Africa/Kinshasa",
+      "timezone": "UTC+01:00 (WAT) -- west"
+    },
+    {
+      "sovereignstate": "Ecuador",
+      "TextIdsinApp": "Timezone_EC_Galapagos",
+      "ISO": "EC",
+      "Strng": "Pacific/Galapagos",
+      "timezone": "UTC-06:00 (GALT) -- Gal pagos Province"
+    },
+    {
+      "sovereignstate": "Ecuador",
+      "TextIdsinApp": "Timezone_EC_Guayaquil",
+      "ISO": "EC",
+      "Strng": "America/Guayaquil",
+      "timezone": "UTC-05:00 - (Ecuador Time"
+    },
+    {
+      "sovereignstate": "Federated States of Micronesia",
+      "TextIdsinApp": "Timezone_FM_Chuuk",
+      "ISO": "FM",
+      "Strng": "Pacific/Chuuk",
+      "timezone": "UTC+10:00--Chuuk and Yap"
+    },
+    {
+      "sovereignstate": "Federated States of Micronesia",
+      "TextIdsinApp": "Timezone_FM_Kosrae",
+      "ISO": "FM",
+      "Strng": "Pacific/Kosrae",
+      "timezone": "UTC+11:00--Kosrae"
+    },
+    {
+      "sovereignstate": "and Pohnpei",
+      "TextIdsinApp": "",
+      "ISO": "",
+      "Strng": "",
+      "timezone": ""
+    },
+    {
+      "sovereignstate": "Kazakhstan",
+      "TextIdsinApp": "Timezone_KZ_Aqtobe",
+      "ISO": "KZ",
+      "Strng": "Asia/Aqtobe",
+      "timezone": "UTC+05:00--western Kazakhstan"
+    },
+    {
+      "sovereignstate": "Kazakhstan",
+      "TextIdsinApp": "Timezone_KZ_Almaty",
+      "ISO": "KZ",
+      "Strng": "Asia/Almaty",
+      "timezone": "UTC+06:00--eastern Kazakhstan"
+    },
+    {
+      "sovereignstate": "Kingdom of the Netherlands",
+      "TextIdsinApp": "Timezone_NL_Caribbean",
+      "ISO": "NL",
+      "Strng": "America/Kralendijk",
+      "timezone": "UTC-04:00 (AST) -- Caribbean"
+    },
+    {
+      "sovereignstate": "Kingdom of the Netherlands",
+      "TextIdsinApp": "Timezone_NL_Amsterdam",
+      "ISO": "NL",
+      "Strng": "Europe/Amsterdam",
+      "timezone": "UTC+01:00 (CET) -- main territory of the Netherlands"
+    },
+    {
+      "sovereignstate": "Mongolia",
+      "TextIdsinApp": "Timezone_MN_Khovd",
+      "ISO": "MN",
+      "Strng": "Asia/Hovd",
+      "timezone": "UTC+07:00-- Khovd, Uvs and Bayan- lgii"
+    },
+    {
+      "sovereignstate": "Mongolia",
+      "TextIdsinApp": "Timezone_MN_Ulaanbaatar",
+      "ISO": "MN",
+      "Strng": "Asia/Ulaanbaatar",
+      "timezone": "UTC+08:00--most of the country"
+    },
+    {
+      "sovereignstate": "Papua New Guinea",
+      "TextIdsinApp": "Timezone_PG_Port_Moresby",
+      "ISO": "PG",
+      "Strng": "Pacific/Port_Moresby",
+      "timezone": "UTC+10:00--most of the country"
+    },
+    {
+      "sovereignstate": "Papua New Guinea",
+      "TextIdsinApp": "Timezone_PG_Bougainville",
+      "ISO": "PG",
+      "Strng": "Pacific/Bougainville",
+      "timezone": "UTC+11:00-- Autonomous Region of Bougainville"
+    },
+    {
+      "sovereignstate": "Portugal",
+      "TextIdsinApp": "Timezone_PT_Azores",
+      "ISO": "PT",
+      "Strng": "Atlantic/Azores",
+      "timezone": "UTC-01:00-- Azores"
+    },
+    {
+      "sovereignstate": "Portugal",
+      "TextIdsinApp": "Timezone_PT_Lisbon",
+      "ISO": "PT",
+      "Strng": "Europe/Lisbon",
+      "timezone": "UTC (WET) -- Madeira and Lisbon"
+    },
+    {
+      "sovereignstate": "South Africa",
+      "TextIdsinApp": "Timezone_ZA_Johannesburg",
+      "ISO": "ZA",
+      "Strng": "Africa/Johannesburg",
+      "timezone": "UTC+02:00 (South African Standard Time) -- main territory"
+    },
+    {
+      "sovereignstate": "Spain",
+      "TextIdsinApp": "Timezone_ES_Canary",
+      "ISO": "ES",
+      "Strng": "Atlantic/Canary",
+      "timezone": "UTC (WET) -- Canary Islands"
+    },
+    {
+      "sovereignstate": "Spain",
+      "TextIdsinApp": "Timezone_ES_Madrid",
+      "ISO": "ES",
+      "Strng": "Europe/Madrid",
+      "timezone": "UTC+01:00 (CET) -- main territory of Spain"
+    },
+    {
+      "sovereignstate": "Ukraine",
+      "TextIdsinApp": "Timezone_UA_Kiev",
+      "ISO": "UA",
+      "Strng": "Europe/Kiev",
+      "timezone": "UTC+02:00[1] (EET) -- most of the country"
+    },
+    {
+      "sovereignstate": "Ukraine",
+      "TextIdsinApp": "Timezone_UA_Simferopol",
+      "ISO": "UA",
+      "Strng": "Europe/Simferopol",
+      "timezone": "UTC+03:00 (MSK) -- Crimea"
+    },
+    {
+      "sovereignstate": "Afghanistan",
+      "TextIdsinApp": "Timezone_AF",
+      "ISO": "AF",
+      "Strng": "Asia/Kabul",
+      "timezone": "UTC+04:30"
+    },
+    {
+      "sovereignstate": "Albania",
+      "TextIdsinApp": "Timezone_AL",
+      "ISO": "AL",
+      "Strng": "Europe/Tirane",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Algeria",
+      "TextIdsinApp": "Timezone_DZ",
+      "ISO": "DZ",
+      "Strng": "Africa/Algiers",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Andorra",
+      "TextIdsinApp": "Timezone_AD",
+      "ISO": "AD",
+      "Strng": "Europe/Andorra",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Angola",
+      "TextIdsinApp": "Timezone_AO",
+      "ISO": "AO",
+      "Strng": "Africa/Luanda",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Antigua and Barbuda",
+      "TextIdsinApp": "Timezone_AG",
+      "ISO": "AG",
+      "Strng": "America/St_Johns",
+      "timezone": "UTC-04:00 (AST)"
+    },
+    {
+      "sovereignstate": "Argentina",
+      "TextIdsinApp": "Timezone_AR",
+      "ISO": "AR",
+      "Strng": "America/Argentina/Buenos_Aires",
+      "timezone": "UTC-03:00 (ART)"
+    },
+    {
+      "sovereignstate": "Armenia",
+      "TextIdsinApp": "Timezone_AM",
+      "ISO": "AM",
+      "Strng": "Asia/Yerevan",
+      "timezone": "UTC+04:00"
+    },
+    {
+      "sovereignstate": "Austria",
+      "TextIdsinApp": "Timezone_AT",
+      "ISO": "AT",
+      "Strng": "Europe/Vienna",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Azerbaijan",
+      "TextIdsinApp": "Timezone_AZ",
+      "ISO": "AZ",
+      "Strng": "Asia/Baku",
+      "timezone": "UTC+04:00"
+    },
+    {
+      "sovereignstate": "Bahamas",
+      "TextIdsinApp": "Timezone_BS",
+      "ISO": "BS",
+      "Strng": "America/Nassau",
+      "timezone": "UTC-05:00 (EST)"
+    },
+    {
+      "sovereignstate": "Bahrain",
+      "TextIdsinApp": "Timezone_BH",
+      "ISO": "BH",
+      "Strng": "Asia/Bahrain",
+      "timezone": "UTC+03:00"
+    },
+    {
+      "sovereignstate": "Bangladesh",
+      "TextIdsinApp": "Timezone_BD",
+      "ISO": "BD",
+      "Strng": "Asia/Dhaka",
+      "timezone": "UTC+06:00 (BDT)"
+    },
+    {
+      "sovereignstate": "Barbados",
+      "TextIdsinApp": "Timezone_BB",
+      "ISO": "BB",
+      "Strng": "America/Barbados",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Belarus",
+      "TextIdsinApp": "Timezone_BY",
+      "ISO": "BY",
+      "Strng": "Europe/Minsk",
+      "timezone": "UTC+03:00 (FET)"
+    },
+    {
+      "sovereignstate": "Belgium",
+      "TextIdsinApp": "Timezone_BE",
+      "ISO": "BE",
+      "Strng": "Europe/Brussels",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Belize",
+      "TextIdsinApp": "Timezone_BZ",
+      "ISO": "BZ",
+      "Strng": "America/Belize",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Benin",
+      "TextIdsinApp": "Timezone_BJ",
+      "ISO": "BJ",
+      "Strng": "Africa/Porto-Novo",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Bhutan",
+      "TextIdsinApp": "Timezone_BT",
+      "ISO": "BT",
+      "Strng": "Asia/Thimphu",
+      "timezone": "UTC+06:00 (BTT)"
+    },
+    {
+      "sovereignstate": "Bolivia",
+      "TextIdsinApp": "Timezone_BO",
+      "ISO": "BO",
+      "Strng": "America/La_Paz",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Bosnia and Herzegovina",
+      "TextIdsinApp": "Timezone_BA",
+      "ISO": "BA",
+      "Strng": "Europe/Sarajevo",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Botswana",
+      "TextIdsinApp": "Timezone_BW",
+      "ISO": "BW",
+      "Strng": "Africa/Gaborone",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Brunei",
+      "TextIdsinApp": "Timezone_BN",
+      "ISO": "BN",
+      "Strng": "Asia/Brunei",
+      "timezone": "UTC+08:00"
+    },
+    {
+      "sovereignstate": "Bulgaria",
+      "TextIdsinApp": "Timezone_BG",
+      "ISO": "BG",
+      "Strng": "Europe/Sofia",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Burkina Faso",
+      "TextIdsinApp": "Timezone_BF",
+      "ISO": "BF",
+      "Strng": "Africa/Ouagadougou",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Burundi",
+      "TextIdsinApp": "Timezone_BI",
+      "ISO": "BI",
+      "Strng": "Africa/Bujumbura",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Cambodia",
+      "TextIdsinApp": "Timezone_KH",
+      "ISO": "KH",
+      "Strng": "Asia/Phnom_Penh",
+      "timezone": "UTC+07:00"
+    },
+    {
+      "sovereignstate": "Cameroon",
+      "TextIdsinApp": "Timezone_CM",
+      "ISO": "CM",
+      "Strng": "Africa/Douala",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Cape Verde",
+      "TextIdsinApp": "Timezone_CV",
+      "ISO": "CV",
+      "Strng": "Atlantic/Cape_Verde",
+      "timezone": "UTC-01:00 (Cape Verde Time)"
+    },
+    {
+      "sovereignstate": "Central African Republic",
+      "TextIdsinApp": "Timezone_CF",
+      "ISO": "CF",
+      "Strng": "Africa/Bangui",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Chad",
+      "TextIdsinApp": "Timezone_TD",
+      "ISO": "TD",
+      "Strng": "Africa/Ndjamena",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "China",
+      "TextIdsinApp": "Timezone_CN",
+      "ISO": "CN",
+      "Strng": "Asia/Shanghai",
+      "timezone": "UTC+08:00 (Chinese Standard Time)"
+    },
+    {
+      "sovereignstate": "Colombia",
+      "TextIdsinApp": "Timezone_CO",
+      "ISO": "CO",
+      "Strng": "America/Bogota",
+      "timezone": "UTC-05:00"
+    },
+    {
+      "sovereignstate": "Comoros",
+      "TextIdsinApp": "Timezone_KM",
+      "ISO": "KM",
+      "Strng": "Indian/Mayotte",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Republic of the Congo",
+      "TextIdsinApp": "Timezone_CG",
+      "ISO": "CG",
+      "Strng": "Africa/Brazzaville",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Costa Rica",
+      "TextIdsinApp": "Timezone_CR",
+      "ISO": "CR",
+      "Strng": "America/Costa_Rica",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Croatia",
+      "TextIdsinApp": "Timezone_HR",
+      "ISO": "HR",
+      "Strng": "Europe/Zagreb",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Cuba",
+      "TextIdsinApp": "Timezone_CU",
+      "ISO": "CU",
+      "Strng": "America/Havana",
+      "timezone": "UTC-05:00"
+    },
+    {
+      "sovereignstate": "Cyprus",
+      "TextIdsinApp": "Timezone_CY",
+      "ISO": "CY",
+      "Strng": "Asia/Nicosia",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Czech Republic",
+      "TextIdsinApp": "Timezone_CZ",
+      "ISO": "CZ",
+      "Strng": "Europe/Prague",
+      "timezone": "UTC+01:00 (CET) (CRT)"
+    },
+    {
+      "sovereignstate": "Djibouti",
+      "TextIdsinApp": "Timezone_DJ",
+      "ISO": "DJ",
+      "Strng": "Africa/Djibouti",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Dominica",
+      "TextIdsinApp": "Timezone_DM",
+      "ISO": "DM",
+      "Strng": "America/Dominica",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Dominican Republic",
+      "TextIdsinApp": "Timezone_DO",
+      "ISO": "DO",
+      "Strng": "America/Santo_Domingo",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "East Timor",
+      "TextIdsinApp": "Timezone_TL",
+      "ISO": "TL",
+      "Strng": "Asia/Dili",
+      "timezone": "UTC+09:00"
+    },
+    {
+      "sovereignstate": "Egypt",
+      "TextIdsinApp": "Timezone_EG",
+      "ISO": "EG",
+      "Strng": "Africa/Cairo",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "El Salvador",
+      "TextIdsinApp": "Timezone_SV",
+      "ISO": "SV",
+      "Strng": "America/El_Salvador",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Equatorial Guinea",
+      "TextIdsinApp": "Timezone_GQ",
+      "ISO": "GQ",
+      "Strng": "Africa/Malabo",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Eritrea",
+      "TextIdsinApp": "Timezone_ER",
+      "ISO": "ER",
+      "Strng": "Africa/Asmara",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Estonia",
+      "TextIdsinApp": "Timezone_EE",
+      "ISO": "EE",
+      "Strng": "Europe/Tallinn",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Ethiopia",
+      "TextIdsinApp": "Timezone_ET",
+      "ISO": "ET",
+      "Strng": "Africa/Addis_Ababa",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Fiji",
+      "TextIdsinApp": "Timezone_FJ",
+      "ISO": "FJ",
+      "Strng": "Pacific/Fiji",
+      "timezone": "UTC+12:00"
+    },
+    {
+      "sovereignstate": "Finland",
+      "TextIdsinApp": "Timezone_FI",
+      "ISO": "FI",
+      "Strng": "Europe/Helsinki",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Gabon",
+      "TextIdsinApp": "Timezone_GA",
+      "ISO": "GA",
+      "Strng": "Africa/Libreville",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Gambia",
+      "TextIdsinApp": "Timezone_GM",
+      "ISO": "GM",
+      "Strng": "Africa/Banjul",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Georgia",
+      "TextIdsinApp": "Timezone_GE",
+      "ISO": "GE",
+      "Strng": "Asia/Tbilisi",
+      "timezone": "UTC+04:00"
+    },
+    {
+      "sovereignstate": "Germany",
+      "TextIdsinApp": "Timezone_DE",
+      "ISO": "DE",
+      "Strng": "Europe/Berlin",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Ghana",
+      "TextIdsinApp": "Timezone_GH",
+      "ISO": "GH",
+      "Strng": "Africa/Accra",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Greece",
+      "TextIdsinApp": "Timezone_GR",
+      "ISO": "GR",
+      "Strng": "Europe/Athens",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Grenada",
+      "TextIdsinApp": "Timezone_GD",
+      "ISO": "GD",
+      "Strng": "America/Grenada",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Guatemala",
+      "TextIdsinApp": "Timezone_GT",
+      "ISO": "GT",
+      "Strng": "America/Guatemala",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Guinea",
+      "TextIdsinApp": "Timezone_GN",
+      "ISO": "GN",
+      "Strng": "Africa/Bamako",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Guinea-Bissau",
+      "TextIdsinApp": "Timezone_GW",
+      "ISO": "GW",
+      "Strng": "Africa/Bissau",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Guyana",
+      "TextIdsinApp": "Timezone_GY",
+      "ISO": "GY",
+      "Strng": "America/Guyana",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Haiti",
+      "TextIdsinApp": "Timezone_HAT",
+      "ISO": "HAT",
+      "Strng": "America/Port-au-Prince",
+      "timezone": "UTC-05:00"
+    },
+    {
+      "sovereignstate": "Honduras",
+      "TextIdsinApp": "Timezone_HN",
+      "ISO": "HN",
+      "Strng": "America/Tegucigalpa",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Hong Kong",
+      "TextIdsinApp": "Timezone_HK",
+      "ISO": "HK",
+      "Strng": "Asia/Hong_Kong",
+      "timezone": "UTC+08:00 (HKT)"
+    },
+    {
+      "sovereignstate": "Hungary",
+      "TextIdsinApp": "Timezone_HU",
+      "ISO": "HU",
+      "Strng": "Europe/Budapest",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Iceland",
+      "TextIdsinApp": "Timezone_IS",
+      "ISO": "IS",
+      "Strng": "Atlantic/Reykjavik",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "India",
+      "TextIdsinApp": "Timezone_IN",
+      "ISO": "IN",
+      "Strng": "Asia/Calcutta",
+      "timezone": "UTC+05:30 (IST)"
+    },
+    {
+      "sovereignstate": "Iran",
+      "TextIdsinApp": "Timezone_IR",
+      "ISO": "IR",
+      "Strng": "Iran",
+      "timezone": "UTC+03:30 (IRST)"
+    },
+    {
+      "sovereignstate": "Iraq",
+      "TextIdsinApp": "Timezone_IQ",
+      "ISO": "IQ",
+      "Strng": "Asia/Baghdad",
+      "timezone": "UTC+03:00"
+    },
+    {
+      "sovereignstate": "Ireland",
+      "TextIdsinApp": "Timezone_IE",
+      "ISO": "IE",
+      "Strng": "Europe/Dublin",
+      "timezone": "UTC (WET)"
+    },
+    {
+      "sovereignstate": "Israel",
+      "TextIdsinApp": "Timezone_IL",
+      "ISO": "IL",
+      "Strng": "Asia/Jerusalem",
+      "timezone": "UTC+02:00 (IST)"
+    },
+    {
+      "sovereignstate": "Italy",
+      "TextIdsinApp": "Timezone_IT",
+      "ISO": "IT",
+      "Strng": "Europe/Rome",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Ivory Coast",
+      "TextIdsinApp": "Timezone_CI",
+      "ISO": "CI",
+      "Strng": "Africa/Abidjan",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Jamaica",
+      "TextIdsinApp": "Timezone_JM",
+      "ISO": "JM",
+      "Strng": "America/Jamaica",
+      "timezone": "UTC-05:00"
+    },
+    {
+      "sovereignstate": "Japan",
+      "TextIdsinApp": "Timezone_JP",
+      "ISO": "JP",
+      "Strng": "Asia/Tokyo",
+      "timezone": "UTC+09:00 (JST)"
+    },
+    {
+      "sovereignstate": "Jordan",
+      "TextIdsinApp": "Timezone_JO",
+      "ISO": "JO",
+      "Strng": "Asia/Amman",
+      "timezone": "UTC+02:00"
+    },
+    {
+      "sovereignstate": "Kenya",
+      "TextIdsinApp": "Timezone_KE",
+      "ISO": "KE",
+      "Strng": "Africa/Nairobi",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Korea, North",
+      "TextIdsinApp": "Timezone_KP",
+      "ISO": "KP",
+      "Strng": "Asia/Pyongyang",
+      "timezone": "UTC+09:00 (Pyongyang Time)"
+    },
+    {
+      "sovereignstate": "Korea, South",
+      "TextIdsinApp": "Timezone_KR",
+      "ISO": "KR",
+      "Strng": "Asia/Seoul",
+      "timezone": "UTC+09:00 (Korea Standard Time)"
+    },
+    {
+      "sovereignstate": "Kuwait",
+      "TextIdsinApp": "Timezone_KW",
+      "ISO": "KW",
+      "Strng": "Asia/Kuwait",
+      "timezone": "UTC+03:00 (Arabia Standard Time)"
+    },
+    {
+      "sovereignstate": "Kosovo",
+      "TextIdsinApp": "Timezone_XK",
+      "ISO": "XK",
+      "Strng": "Europe/Skopje",
+      "timezone": "UTC+01:00"
+    },
+    {
+      "sovereignstate": "Kyrgyzstan",
+      "TextIdsinApp": "Timezone_KG",
+      "ISO": "KG",
+      "Strng": "Asia/Bishkek",
+      "timezone": "UTC+06:00"
+    },
+    {
+      "sovereignstate": "Laos",
+      "TextIdsinApp": "Timezone_LA",
+      "ISO": "LA",
+      "Strng": "Asia/Vientiane",
+      "timezone": "UTC+07:00"
+    },
+    {
+      "sovereignstate": "Latvia",
+      "TextIdsinApp": "Timezone_LV",
+      "ISO": "LV",
+      "Strng": "Europe/Riga",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Lebanon",
+      "TextIdsinApp": "Timezone_LB",
+      "ISO": "LB",
+      "Strng": "Asia/Beirut",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Lesotho",
+      "TextIdsinApp": "Timezone_LS",
+      "ISO": "LS",
+      "Strng": "Africa/Maseru",
+      "timezone": "UTC+02:00"
+    },
+    {
+      "sovereignstate": "Liberia",
+      "TextIdsinApp": "Timezone_LR",
+      "ISO": "LR",
+      "Strng": "Africa/Monrovia",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Libya",
+      "TextIdsinApp": "Timezone_LY",
+      "ISO": "LY",
+      "Strng": "Libya",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Liechtenstein",
+      "TextIdsinApp": "Timezone_LI",
+      "ISO": "LI",
+      "Strng": "Europe/Vaduz",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Lithuania",
+      "TextIdsinApp": "Timezone_LT",
+      "ISO": "LT",
+      "Strng": "Europe/Vilnius",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Luxembourg",
+      "TextIdsinApp": "Timezone_LU",
+      "ISO": "LU",
+      "Strng": "Europe/Luxembourg",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Macau (China)",
+      "TextIdsinApp": "Timezone_MO",
+      "ISO": "MO",
+      "Strng": "Asia/Macau",
+      "timezone": "UTC+08:00 (Macau Standard Time)"
+    },
+    {
+      "sovereignstate": "Macedonia",
+      "TextIdsinApp": "Timezone_MK",
+      "ISO": "MK",
+      "Strng": "Europe/Skopje",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Madagascar",
+      "TextIdsinApp": "Timezone_MG",
+      "ISO": "MG",
+      "Strng": "Indian/Antananarivo",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Malawi",
+      "TextIdsinApp": "Timezone_MW",
+      "ISO": "MW",
+      "Strng": "Africa/Blantyre",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Malaysia",
+      "TextIdsinApp": "Timezone_MY",
+      "ISO": "MY",
+      "Strng": "Asia/Kuala_Lumpur",
+      "timezone": "UTC+08:00 (Malaysian Standard Time)"
+    },
+    {
+      "sovereignstate": "Maldives",
+      "TextIdsinApp": "Timezone_MV",
+      "ISO": "MV",
+      "Strng": "Indian/Maldives",
+      "timezone": "UTC+05:00"
+    },
+    {
+      "sovereignstate": "Mali",
+      "TextIdsinApp": "Timezone_ML",
+      "ISO": "ML",
+      "Strng": "Africa/Bamako",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Malta",
+      "TextIdsinApp": "Timezone_MT",
+      "ISO": "MT",
+      "Strng": "Europe/Malta",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Marshall Islands",
+      "TextIdsinApp": "Timezone_MH",
+      "ISO": "MH",
+      "Strng": "Pacific/Majuro",
+      "timezone": "UTC+12:00"
+    },
+    {
+      "sovereignstate": "Mauritania",
+      "TextIdsinApp": "Timezone_MR",
+      "ISO": "MR",
+      "Strng": "Africa/Nouakchott",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Mauritius",
+      "TextIdsinApp": "Timezone_MU",
+      "ISO": "MU",
+      "Strng": "Indian/Mauritius",
+      "timezone": "UTC+04:00 (Mauritius Time)"
+    },
+    {
+      "sovereignstate": "Moldova",
+      "TextIdsinApp": "Timezone_MD",
+      "ISO": "MD",
+      "Strng": "Europe/Chisinau",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Monaco",
+      "TextIdsinApp": "Timezone_MC",
+      "ISO": "MC",
+      "Strng": "Europe/Monaco",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Montenegro",
+      "TextIdsinApp": "Timezone_ME",
+      "ISO": "ME",
+      "Strng": "Europe/Podgorica",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Morocco",
+      "TextIdsinApp": "Timezone_MA",
+      "ISO": "MA",
+      "Strng": "Africa/Casablanca",
+      "timezone": "UTC (WET)"
+    },
+    {
+      "sovereignstate": "Mozambique",
+      "TextIdsinApp": "Timezone_MZ",
+      "ISO": "MZ",
+      "Strng": "Africa/Maputo",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Myanmar",
+      "TextIdsinApp": "Timezone_MM",
+      "ISO": "MM",
+      "Strng": "Asia/Yangon",
+      "timezone": "UTC+06:30 (MST)"
+    },
+    {
+      "sovereignstate": "Namibia",
+      "TextIdsinApp": "Timezone_NA",
+      "ISO": "NA",
+      "Strng": "Africa/Windhoek",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Nauru",
+      "TextIdsinApp": "Timezone_NR",
+      "ISO": "NR",
+      "Strng": "Pacific/Nauru",
+      "timezone": "UTC+12:00"
+    },
+    {
+      "sovereignstate": "Nepal",
+      "TextIdsinApp": "Timezone_NP",
+      "ISO": "NP",
+      "Strng": "Asia/Kathmandu",
+      "timezone": "UTC+05:45 (Nepal Time)"
+    },
+    {
+      "sovereignstate": "Nicaragua",
+      "TextIdsinApp": "Timezone_NI",
+      "ISO": "NI",
+      "Strng": "America/Managua",
+      "timezone": "UTC-06:00"
+    },
+    {
+      "sovereignstate": "Niger",
+      "TextIdsinApp": "Timezone_NE",
+      "ISO": "NE",
+      "Strng": "Africa/Niamey",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Nigeria",
+      "TextIdsinApp": "Timezone_NG",
+      "ISO": "NG",
+      "Strng": "Africa/Lagos",
+      "timezone": "UTC+01:00 (WAT)"
+    },
+    {
+      "sovereignstate": "Norway",
+      "TextIdsinApp": "Timezone_NO",
+      "ISO": "NO",
+      "Strng": "Europe/Oslo",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Oman",
+      "TextIdsinApp": "Timezone_OM",
+      "ISO": "OM",
+      "Strng": "Asia/Muscat",
+      "timezone": "UTC+04:00"
+    },
+    {
+      "sovereignstate": "Pakistan",
+      "TextIdsinApp": "Timezone_PK",
+      "ISO": "PK",
+      "Strng": "Asia/Karachi",
+      "timezone": "UTC+05:00 (PKT)"
+    },
+    {
+      "sovereignstate": "Palau",
+      "TextIdsinApp": "Timezone_PW",
+      "ISO": "PW",
+      "Strng": "Pacific/Palau",
+      "timezone": "UTC+09:00"
+    },
+    {
+      "sovereignstate": "Panama",
+      "TextIdsinApp": "Timezone_PA",
+      "ISO": "PA",
+      "Strng": "America/Panama",
+      "timezone": "UTC-05:00"
+    },
+    {
+      "sovereignstate": "Paraguay",
+      "TextIdsinApp": "Timezone_PY",
+      "ISO": "PY",
+      "Strng": "America/Asuncion",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Peru",
+      "TextIdsinApp": "Timezone_PE",
+      "ISO": "PE",
+      "Strng": "America/Lima",
+      "timezone": "UTC-05:00 (PET)"
+    },
+    {
+      "sovereignstate": "Philippines",
+      "TextIdsinApp": "Timezone_PH",
+      "ISO": "PH",
+      "Strng": "Asia/Manila",
+      "timezone": "UTC+08:00 (PHT)"
+    },
+    {
+      "sovereignstate": "Poland",
+      "TextIdsinApp": "Timezone_PL",
+      "ISO": "PL",
+      "Strng": "Europe/Warsaw",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Qatar",
+      "TextIdsinApp": "Timezone_QA",
+      "ISO": "QA",
+      "Strng": "Asia/Qatar",
+      "timezone": "UTC+03:00 (Arabia Standard Time)"
+    },
+    {
+      "sovereignstate": "Romania",
+      "TextIdsinApp": "Timezone_RO",
+      "ISO": "RO",
+      "Strng": "Europe/Bucharest",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Rwanda",
+      "TextIdsinApp": "Timezone_RW",
+      "ISO": "RW",
+      "Strng": "Africa/Kigali",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Saint Kitts and Nevis",
+      "TextIdsinApp": "Timezone_KN",
+      "ISO": "KN",
+      "Strng": "America/St_Kitts",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Saint Lucia",
+      "TextIdsinApp": "Timezone_LC",
+      "ISO": "LC",
+      "Strng": "America/St_Lucia",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Saint Vincent and the Grenadines",
+      "TextIdsinApp": "Timezone_VC",
+      "ISO": "VC",
+      "Strng": "America/St_Vincent",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Samoa",
+      "TextIdsinApp": "Timezone_WS",
+      "ISO": "WS",
+      "Strng": "Pacific/Samoa",
+      "timezone": "UTC+13:00"
+    },
+    {
+      "sovereignstate": "San Marino",
+      "TextIdsinApp": "Timezone_SM",
+      "ISO": "SM",
+      "Strng": "Europe/San_Marino",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "S o Tome and Pr ncipe",
+      "TextIdsinApp": "Timezone_ST",
+      "ISO": "ST",
+      "Strng": "Africa/Sao_Tome",
+      "timezone": "UTC+01:00"
+    },
+    {
+      "sovereignstate": "Saudi Arabia",
+      "TextIdsinApp": "Timezone_SA",
+      "ISO": "SA",
+      "Strng": "Asia/Riyadh",
+      "timezone": "UTC+03:00 (Arabia Standard Time)"
+    },
+    {
+      "sovereignstate": "Senegal",
+      "TextIdsinApp": "Timezone_SN",
+      "ISO": "SN",
+      "Strng": "Africa/Dakar",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Serbia",
+      "TextIdsinApp": "Timezone_RS",
+      "ISO": "RS",
+      "Strng": "Europe/Belgrade",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Seychelles",
+      "TextIdsinApp": "Timezone_SC",
+      "ISO": "SC",
+      "Strng": "Indian/Mahe",
+      "timezone": "UTC+04:00 (Seychelles Time)"
+    },
+    {
+      "sovereignstate": "Sierra Leone",
+      "TextIdsinApp": "Timezone_SL",
+      "ISO": "SL",
+      "Strng": "Africa/Freetown",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Singapore",
+      "TextIdsinApp": "Timezone_SG",
+      "ISO": "SG",
+      "Strng": "Asia/Singapore",
+      "timezone": "UTC+08:00 (SST)"
+    },
+    {
+      "sovereignstate": "Slovakia",
+      "TextIdsinApp": "Timezone_SK",
+      "ISO": "SK",
+      "Strng": "Europe/Bratislava",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Slovenia",
+      "TextIdsinApp": "Timezone_SI",
+      "ISO": "SI",
+      "Strng": "Europe/Ljubljana",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Solomon Islands",
+      "TextIdsinApp": "Timezone_SB",
+      "ISO": "SB",
+      "Strng": "Pacific/Guadalcanal",
+      "timezone": "UTC+11:00"
+    },
+    {
+      "sovereignstate": "Somalia",
+      "TextIdsinApp": "Timezone_SO",
+      "ISO": "SO",
+      "Strng": "Africa/Mogadishu",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "South Sudan",
+      "TextIdsinApp": "Timezone_SS",
+      "ISO": "SS",
+      "Strng": "Africa/Juba",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Sri Lanka",
+      "TextIdsinApp": "Timezone_LK",
+      "ISO": "LK",
+      "Strng": "Asia/Colombo",
+      "timezone": "UTC+05:30 (SLST)"
+    },
+    {
+      "sovereignstate": "Sudan",
+      "TextIdsinApp": "Timezone_SD",
+      "ISO": "SD",
+      "Strng": "Africa/Khartoum",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Suriname",
+      "TextIdsinApp": "Timezone_SR",
+      "ISO": "SR",
+      "Strng": "America/Paramaribo",
+      "timezone": "UTC-03:00"
+    },
+    {
+      "sovereignstate": "Swaziland",
+      "TextIdsinApp": "Timezone_SZ",
+      "ISO": "SZ",
+      "Strng": "Africa/Mbabane",
+      "timezone": "UTC+02:00"
+    },
+    {
+      "sovereignstate": "Sweden",
+      "TextIdsinApp": "Timezone_SE",
+      "ISO": "SE",
+      "Strng": "Europe/Stockholm",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Switzerland",
+      "TextIdsinApp": "Timezone_CH",
+      "ISO": "CH",
+      "Strng": "Europe/Zurich",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Syria",
+      "TextIdsinApp": "Timezone_SY",
+      "ISO": "SY",
+      "Strng": "Asia/Damascus",
+      "timezone": "UTC+02:00 (EET)"
+    },
+    {
+      "sovereignstate": "Taiwan",
+      "TextIdsinApp": "Timezone_TW",
+      "ISO": "TW",
+      "Strng": "Asia/Taipei",
+      "timezone": "UTC+08:00"
+    },
+    {
+      "sovereignstate": "Tajikistan",
+      "TextIdsinApp": "Timezone_TJ",
+      "ISO": "TJ",
+      "Strng": "Asia/Dushanbe",
+      "timezone": "UTC+05:00"
+    },
+    {
+      "sovereignstate": "Tanzania",
+      "TextIdsinApp": "Timezone_TZ",
+      "ISO": "TZ",
+      "Strng": "Africa/Dar_es_Salaam",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "Thailand",
+      "TextIdsinApp": "Timezone_TH",
+      "ISO": "TH",
+      "Strng": "Asia/Bangkok",
+      "timezone": "UTC+07:00 (THA)"
+    },
+    {
+      "sovereignstate": "Togo",
+      "TextIdsinApp": "Timezone_TG",
+      "ISO": "TG",
+      "Strng": "Africa/Lome",
+      "timezone": "UTC"
+    },
+    {
+      "sovereignstate": "Tonga",
+      "TextIdsinApp": "Timezone_TO",
+      "ISO": "TO",
+      "Strng": "Pacific/Tongatapu",
+      "timezone": "UTC+13:00"
+    },
+    {
+      "sovereignstate": "Trinidad and Tobago",
+      "TextIdsinApp": "Timezone_TT",
+      "ISO": "TT",
+      "Strng": "America/Port_of_Spain",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Tunisia",
+      "TextIdsinApp": "Timezone_TN",
+      "ISO": "TN",
+      "Strng": "Africa/Tunis",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Turkey",
+      "TextIdsinApp": "Timezone_TR",
+      "ISO": "TR",
+      "Strng": "Asia/Istanbul",
+      "timezone": "UTC+03:00 (TRT)"
+    },
+    {
+      "sovereignstate": "Turkmenistan",
+      "TextIdsinApp": "Timezone_TM",
+      "ISO": "TM",
+      "Strng": "Asia/Ashgabat",
+      "timezone": "UTC+05:00"
+    },
+    {
+      "sovereignstate": "Tuvalu",
+      "TextIdsinApp": "Timezone_TV",
+      "ISO": "TV",
+      "Strng": "Pacific/Funafuti",
+      "timezone": "UTC+12:00"
+    },
+    {
+      "sovereignstate": "Uganda",
+      "TextIdsinApp": "Timezone_UG",
+      "ISO": "UG",
+      "Strng": "Africa/Kampala",
+      "timezone": "UTC+03:00 (EAT)"
+    },
+    {
+      "sovereignstate": "United Arab Emirates",
+      "TextIdsinApp": "Timezone_AE",
+      "ISO": "AE",
+      "Strng": "Asia/Dubai",
+      "timezone": "UTC+04:00"
+    },
+    {
+      "sovereignstate": "Uruguay",
+      "TextIdsinApp": "Timezone_UY",
+      "ISO": "UY",
+      "Strng": "America/Montevideo",
+      "timezone": "UTC-03:00"
+    },
+    {
+      "sovereignstate": "Uzbekistan",
+      "TextIdsinApp": "Timezone_ZU",
+      "ISO": "ZU",
+      "Strng": "Asia/Tashkent",
+      "timezone": "UTC+05:00 (Uzbekistan Time)"
+    },
+    {
+      "sovereignstate": "Vanuatu",
+      "TextIdsinApp": "Timezone_VU",
+      "ISO": "VU",
+      "Strng": "Pacific/Efate",
+      "timezone": "UTC+11:00"
+    },
+    {
+      "sovereignstate": "Vatican City",
+      "TextIdsinApp": "Timezone_VA",
+      "ISO": "VA",
+      "Strng": "Europe/Vatican",
+      "timezone": "UTC+01:00 (CET)"
+    },
+    {
+      "sovereignstate": "Venezuela",
+      "TextIdsinApp": "Timezone_VE",
+      "ISO": "VE",
+      "Strng": "America/Caracas",
+      "timezone": "UTC-04:00"
+    },
+    {
+      "sovereignstate": "Vietnam",
+      "TextIdsinApp": "Timezone_VN",
+      "ISO": "VN",
+      "Strng": "Asia/Ho_Chi_Minh",
+      "timezone": "UTC+07:00 (Indochina Time)"
+    },
+    {
+      "sovereignstate": "Yemen",
+      "TextIdsinApp": "Timezone_YE",
+      "ISO": "YE",
+      "Strng": "Asia/Aden",
+      "timezone": "UTC+03:00"
+    },
+    {
+      "sovereignstate": "Zambia",
+      "TextIdsinApp": "Timezone_ZM",
+      "ISO": "ZM",
+      "Strng": "Africa/Lusaka",
+      "timezone": "UTC+02:00 (CAT)"
+    },
+    {
+      "sovereignstate": "Zimbabwe",
+      "TextIdsinApp": "Timezone_ZW",
+      "ISO": "ZW",
+      "Strng": "Africa/Harare",
+      "timezone": "UTC+02:00 (CAT)"
+    }
+  ]
+}
+
+
+
